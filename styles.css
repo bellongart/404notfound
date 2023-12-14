@@ -81,7 +81,7 @@ h1 {
 }
 
 .button:hover {
-	background-color: -var(--hover);
+	background-color: var(--hover);
 }
 
 footer {
